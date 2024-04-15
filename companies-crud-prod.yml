@@ -1,8 +1,11 @@
+db:
+  username: PROD
+  password: jk123!.f
 spring:
   datasource:
-    username: SA
+    username: admin
     hikari:
       maximum-pool-size: 5
       connection-timeout: 20000
-    url: jdbc:postgresql://asereje.1:5432/companies
-    password: QKEWQWEJJASDJ
+    url: jdbc:postgresql://prod:5432/companies
+    password: udemy
