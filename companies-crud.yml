@@ -1,3 +1,6 @@
+db:
+  username: admin
+  password: udemy
 spring:
   datasource:
     username: admin
