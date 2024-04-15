@@ -5,4 +5,4 @@ spring:
       maximum-pool-size: 5
       connection-timeout: 20000
     url: jdbc:postgresql://asereje.1:5432/companies
-    password: QKEWQWEJJASDJ!"·
+    password: QKEWQWEJJASDJ
